@@ -6,3 +6,6 @@ Each project refelects hands on experience on data analysis, sentiment analysis,
 
 ## Projects Included 
 
+Interactive Sentiment Analysis 
+
+1. 
