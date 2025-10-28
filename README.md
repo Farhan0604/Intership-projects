@@ -22,7 +22,7 @@ This repository contains a collection of projects completed during my internship
 ## Tech Stack
 
 - Language: Python 3.x
-- Common libraries: pandas, numpy, scikit-learn, nltk / spaCy (NLP), matplotlib / seaborn (visualization)
+- Common libraries: pandas, numpy, scikit-learn / spaCy (NLP), matplotlib / seaborn (visualization)
 - Web scraping: requests, beautifulsoup4 (or Selenium when needed)
 - Notebooks: Jupyter
 
